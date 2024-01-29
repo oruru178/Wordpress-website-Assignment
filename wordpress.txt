@@ -1,0 +1,5 @@
+The Wordpress Zipped File is too big in Size so i could not download it here, Please access it on the Live Server under the Public_html Folder with the name Oruru aron steven.
+the filepath to the folder is;
+
+
+public_html/oruru_aaron_steven
